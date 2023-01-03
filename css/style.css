@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+header{
+      background-color: #ff0000;
+      width: 100%;
+      height: 200px;
+      }
+
+footer{
+      background-color: #0000ff;
+      width: 100%;
+      height: 200px;
+      }
+
+.cel1 {
+      width: auto;
+      height: auto;
+      background-color: #FFFAFA;
+      color: #800000;
+      }
+
+.cel2 {
+      width: 100px;
+      height: 75px;
+      background-color: #F0FFF0;
+      text-align: center;
+      }
+
+.cel3 {
+      width: auto;
+      height: auto;
+      background-color: #F5FFFA;
+      color: #008000;
+      }
+
+.cel4 {
+      width: 100px;
+      height: 75px;
+      background-color: #F0FFFF;
+      text-align: center;
+      }
+
+.cel5 {
+      width: auto;
+      height: auto;
+      background-color: #F0F8FF;
+      color: #000080;
+      }
+
+.cel6 {
+      width: 100px;
+      height: 75px;
+      background-color: #F8F8FF;
+      text-align: center;
+      }
+
+.cel7 {
+      width: auto;
+      height: auto;
+      background-color: #F5F5F5;
+      color: #800080;
+      }
+
+.cel8 {
+      width: 100px;
+      height: 75px;
+      background-color: #FFF5EE;
+      text-align: center;
+      }
+
+.cel9 {
+      width: auto;
+      height: auto;
+      background-color: #F5F5DC;
+      color: #808000;
+      }
+
+.cel10 {
+      width: 100px;
+      height: 75px;
+      background-color: #FDF5E6;
+      text-align: center;
+      }
+
+.cel11 {
+      width: auto;
+      height: auto;
+      background-color: #FFFAF0;
+      color: #008080;
+      }
+
+.cel12 {
+      width: 100px;
+      height: 75px;
+      background-color: #FFFFF0;
+      text-align: center;
+
+      }
+
+.cel13 {
+      width: auto;
+      height: auto;
+      background-color: #FAEBD7;
+      color: #FF0000;
+      }
+
+.cel14 {
+      width: 100px;
+      height: 75px;
+      background-color: #FAF0E6;
+      text-align: center;
+      }
+
+.cel15 {
+      width: auto;
+      height: auto;
+      background-color: #FFF0F5;
+      color: #0000FF;
+      }
+
+.cel16 {
+      width: 100px;
+      height: 75px;
+      background-color: #FFE4E1;
+      text-align: center;
+      }
